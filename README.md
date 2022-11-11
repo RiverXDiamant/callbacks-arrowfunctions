@@ -1,4 +1,4 @@
-# callbacks-arrowfunctions
+# Callbacks and Arrow Functions Homework
 JavaScript Callbacks and Arrow Functions HW
 
 
